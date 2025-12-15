@@ -1,1 +1,8 @@
+u1,0.85
+u2,1.2
+u3,0.45
+u4,-0.3
+u5,0.92
+#meaning
+#user_id, prediction_score
 
